@@ -1,0 +1,220 @@
+{
+  "bones": [
+    {
+      "human": "Hips",
+      "bone": "J_Bip_C_Hips"
+    },
+    {
+      "human": "Spine",
+      "bone": "J_Bip_C_Spine"
+    },
+    {
+      "human": "Chest",
+      "bone": "J_Bip_C_Chest"
+    },
+    {
+      "human": "UpperChest",
+      "bone": "J_Bip_C_UpperChest"
+    },
+    {
+      "human": "Neck",
+      "bone": "J_Bip_C_Neck"
+    },
+    {
+      "human": "Head",
+      "bone": "J_Bip_C_Head"
+    },
+    {
+      "human": "LeftEye",
+      "bone": "J_Adj_L_FaceEye"
+    },
+    {
+      "human": "RightEye",
+      "bone": "J_Adj_R_FaceEye"
+    },
+    {
+      "human": "LeftUpperLeg",
+      "bone": "J_Bip_L_UpperLeg"
+    },
+    {
+      "human": "LeftLowerLeg",
+      "bone": "J_Bip_L_LowerLeg"
+    },
+    {
+      "human": "LeftFoot",
+      "bone": "J_Bip_L_Foot"
+    },
+    {
+      "human": "LeftToes",
+      "bone": "J_Bip_L_ToeBase"
+    },
+    {
+      "human": "RightUpperLeg",
+      "bone": "J_Bip_R_UpperLeg"
+    },
+    {
+      "human": "RightLowerLeg",
+      "bone": "J_Bip_R_LowerLeg"
+    },
+    {
+      "human": "RightFoot",
+      "bone": "J_Bip_R_Foot"
+    },
+    {
+      "human": "RightToes",
+      "bone": "J_Bip_R_ToeBase"
+    },
+    {
+      "human": "LeftShoulder",
+      "bone": "J_Bip_L_Shoulder"
+    },
+    {
+      "human": "LeftUpperArm",
+      "bone": "J_Bip_L_UpperArm"
+    },
+    {
+      "human": "LeftLowerArm",
+      "bone": "J_Bip_L_LowerArm"
+    },
+    {
+      "human": "LeftHand",
+      "bone": "J_Bip_L_Hand"
+    },
+    {
+      "human": "RightShoulder",
+      "bone": "J_Bip_R_Shoulder"
+    },
+    {
+      "human": "RightUpperArm",
+      "bone": "J_Bip_R_UpperArm"
+    },
+    {
+      "human": "RightLowerArm",
+      "bone": "J_Bip_R_LowerArm"
+    },
+    {
+      "human": "RightHand",
+      "bone": "J_Bip_R_Hand"
+    },
+    {
+      "human": "LeftThumbMetacarpal",
+      "bone": "J_Bip_L_Thumb1"
+    },
+    {
+      "human": "LeftThumbProximal",
+      "bone": "J_Bip_L_Thumb2"
+    },
+    {
+      "human": "LeftThumbDistal",
+      "bone": "J_Bip_L_Thumb3"
+    },
+    {
+      "human": "LeftIndexProximal",
+      "bone": "J_Bip_L_Index1"
+    },
+    {
+      "human": "LeftIndexIntermediate",
+      "bone": "J_Bip_L_Index2"
+    },
+    {
+      "human": "LeftIndexDistal",
+      "bone": "J_Bip_L_Index3"
+    },
+    {
+      "human": "LeftMiddleProximal",
+      "bone": "J_Bip_L_Middle1"
+    },
+    {
+      "human": "LeftMiddleIntermediate",
+      "bone": "J_Bip_L_Middle2"
+    },
+    {
+      "human": "LeftMiddleDistal",
+      "bone": "J_Bip_L_Middle3"
+    },
+    {
+      "human": "LeftRingProximal",
+      "bone": "J_Bip_L_Ring1"
+    },
+    {
+      "human": "LeftRingIntermediate",
+      "bone": "J_Bip_L_Ring2"
+    },
+    {
+      "human": "LeftRingDistal",
+      "bone": "J_Bip_L_Ring3"
+    },
+    {
+      "human": "LeftLittleProximal",
+      "bone": "J_Bip_L_Little1"
+    },
+    {
+      "human": "LeftLittleIntermediate",
+      "bone": "J_Bip_L_Little2"
+    },
+    {
+      "human": "LeftLittleDistal",
+      "bone": "J_Bip_L_Little3"
+    },
+    {
+      "human": "RightThumbMetacarpal",
+      "bone": "J_Bip_R_Thumb1"
+    },
+    {
+      "human": "RightThumbProximal",
+      "bone": "J_Bip_R_Thumb2"
+    },
+    {
+      "human": "RightThumbDistal",
+      "bone": "J_Bip_R_Thumb3"
+    },
+    {
+      "human": "RightIndexProximal",
+      "bone": "J_Bip_R_Index1"
+    },
+    {
+      "human": "RightIndexIntermediate",
+      "bone": "J_Bip_R_Index2"
+    },
+    {
+      "human": "RightIndexDistal",
+      "bone": "J_Bip_R_Index3"
+    },
+    {
+      "human": "RightMiddleProximal",
+      "bone": "J_Bip_R_Middle1"
+    },
+    {
+      "human": "RightMiddleIntermediate",
+      "bone": "J_Bip_R_Middle2"
+    },
+    {
+      "human": "RightMiddleDistal",
+      "bone": "J_Bip_R_Middle3"
+    },
+    {
+      "human": "RightRingProximal",
+      "bone": "J_Bip_R_Ring1"
+    },
+    {
+      "human": "RightRingIntermediate",
+      "bone": "J_Bip_R_Ring2"
+    },
+    {
+      "human": "RightRingDistal",
+      "bone": "J_Bip_R_Ring3"
+    },
+    {
+      "human": "RightLittleProximal",
+      "bone": "J_Bip_R_Little1"
+    },
+    {
+      "human": "RightLittleIntermediate",
+      "bone": "J_Bip_R_Little2"
+    },
+    {
+      "human": "RightLittleDistal",
+      "bone": "J_Bip_R_Little3"
+    }
+  ]
+}

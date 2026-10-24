@@ -1,0 +1,195 @@
+{
+  "finite_matrices": true,
+  "loops_match": true,
+  "clips": [
+    {
+      "name": "Idle",
+      "loop": true,
+      "loop_matrix_error": 1.5407439555097887e-33,
+      "min_ankle_z": 0.08394858241081238,
+      "max_ankle_z": 0.08794614672660828
+    },
+    {
+      "name": "Idle_LookAround",
+      "loop": true,
+      "loop_matrix_error": 1.5407439555097887e-33,
+      "min_ankle_z": 0.08394739031791687,
+      "max_ankle_z": 0.08794733881950378
+    },
+    {
+      "name": "Walk",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.07635405659675598,
+      "max_ankle_z": 0.3166995644569397
+    },
+    {
+      "name": "Run",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.09835407137870789,
+      "max_ankle_z": 0.6279779076576233
+    },
+    {
+      "name": "WalkBackward",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.07635405659675598,
+      "max_ankle_z": 0.31899896264076233
+    },
+    {
+      "name": "StrafeLeft",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.07652014493942261,
+      "max_ankle_z": 0.16178616881370544
+    },
+    {
+      "name": "StrafeRight",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.07652014493942261,
+      "max_ankle_z": 0.16178619861602783
+    },
+    {
+      "name": "SitDown",
+      "loop": false,
+      "loop_matrix_error": 1.146547794342041,
+      "min_ankle_z": -0.005078613758087158,
+      "max_ankle_z": 0.08594736456871033
+    },
+    {
+      "name": "Sit",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.049157142639160156,
+      "max_ankle_z": 0.049157142639160156
+    },
+    {
+      "name": "StandUp",
+      "loop": false,
+      "loop_matrix_error": 1.146547794342041,
+      "min_ankle_z": -0.005135625600814819,
+      "max_ankle_z": 0.08594736456871033
+    },
+    {
+      "name": "LayDown",
+      "loop": false,
+      "loop_matrix_error": 1.4050500392913818,
+      "min_ankle_z": -0.11894713342189789,
+      "max_ankle_z": 0.09402094781398773
+    },
+    {
+      "name": "LieIdle",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.09402094781398773,
+      "max_ankle_z": 0.09402094781398773
+    },
+    {
+      "name": "Sleep",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.09402094781398773,
+      "max_ankle_z": 0.09402094781398773
+    },
+    {
+      "name": "GetUp",
+      "loop": false,
+      "loop_matrix_error": 1.4050500392913818,
+      "min_ankle_z": -0.11894713342189789,
+      "max_ankle_z": 0.09402094781398773
+    },
+    {
+      "name": "CrouchDown",
+      "loop": false,
+      "loop_matrix_error": 0.7499271705746651,
+      "min_ankle_z": 0.009210824966430664,
+      "max_ankle_z": 0.08594736456871033
+    },
+    {
+      "name": "CrouchIdle",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.025258868932724,
+      "max_ankle_z": 0.025258868932724
+    },
+    {
+      "name": "CrouchWalk",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": -0.051851481199264526,
+      "max_ankle_z": 0.2444080412387848
+    },
+    {
+      "name": "CrouchUp",
+      "loop": false,
+      "loop_matrix_error": 0.7499271705746651,
+      "min_ankle_z": 0.009210824966430664,
+      "max_ankle_z": 0.08594736456871033
+    },
+    {
+      "name": "Jump",
+      "loop": false,
+      "loop_matrix_error": 1.9721522630525295e-31,
+      "min_ankle_z": 0.08594736456871033,
+      "max_ankle_z": 0.4731050729751587
+    },
+    {
+      "name": "Fall",
+      "loop": true,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.11395213007926941,
+      "max_ankle_z": 0.11395213007926941
+    },
+    {
+      "name": "Land",
+      "loop": false,
+      "loop_matrix_error": 6.162975822039155e-32,
+      "min_ankle_z": 0.013141095638275146,
+      "max_ankle_z": 0.08594736456871033
+    },
+    {
+      "name": "Wave",
+      "loop": false,
+      "loop_matrix_error": 1.5407439555097887e-33,
+      "min_ankle_z": 0.0839478075504303,
+      "max_ankle_z": 0.08794692158699036
+    },
+    {
+      "name": "Talk",
+      "loop": true,
+      "loop_matrix_error": 1.5407439555097887e-33,
+      "min_ankle_z": 0.08394858241081238,
+      "max_ankle_z": 0.08794614672660828
+    },
+    {
+      "name": "Cheer",
+      "loop": false,
+      "loop_matrix_error": 0.0,
+      "min_ankle_z": 0.08594736456871033,
+      "max_ankle_z": 0.11180886626243591
+    },
+    {
+      "name": "Interact",
+      "loop": false,
+      "loop_matrix_error": 1.5407439555097887e-33,
+      "min_ankle_z": 0.08394858241081238,
+      "max_ankle_z": 0.08794614672660828
+    },
+    {
+      "name": "PickUp",
+      "loop": false,
+      "loop_matrix_error": 1.401298464324817e-45,
+      "min_ankle_z": -0.002873152494430542,
+      "max_ankle_z": 0.08594736456871033
+    },
+    {
+      "name": "HitReact",
+      "loop": false,
+      "loop_matrix_error": 1.5407439555097887e-33,
+      "min_ankle_z": 0.08397772908210754,
+      "max_ankle_z": 0.08791700005531311
+    }
+  ]
+}

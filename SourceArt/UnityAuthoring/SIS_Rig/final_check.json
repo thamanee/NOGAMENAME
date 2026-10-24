@@ -1,0 +1,10 @@
+{
+  "helper_addon_installed": true,
+  "helper_reset_operators_pass": true,
+  "main_blend_bones": 244,
+  "demo_playback_pass": true,
+  "vrm_roundtrip_import": "FINISHED",
+  "roundtrip_springs": 37,
+  "roundtrip_custom_expressions": 14,
+  "roundtrip_shape_keys_including_basis": 72
+}

@@ -1,0 +1,4593 @@
+[
+  {
+    "name": "Parking_5.25x5.5",
+    "group": "00_Site",
+    "center": [
+      4.425,
+      -3.75,
+      -0.04
+    ],
+    "size": [
+      5.25,
+      5.5,
+      0.08
+    ],
+    "material": "Paving"
+  },
+  {
+    "name": "Entry_Terrace",
+    "group": "00_Site",
+    "center": [
+      4.8,
+      -0.425,
+      0.1
+    ],
+    "size": [
+      5.6,
+      0.85,
+      0.2
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Entry_Step",
+    "group": "00_Site",
+    "center": [
+      3.5,
+      -1.0,
+      0.05
+    ],
+    "size": [
+      1.4000000000000004,
+      0.29999999999999993,
+      0.1
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Ground_Slab",
+    "group": "01_GroundFloor",
+    "center": [
+      3.8,
+      6.0,
+      0.1
+    ],
+    "size": [
+      7.6,
+      12,
+      0.2
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Bathroom_1_Tile",
+    "group": "01_GroundFloor",
+    "center": [
+      2.8,
+      10.65,
+      0.20600000000000002
+    ],
+    "size": [
+      1.6,
+      2.6999999999999993,
+      0.01200000000000001
+    ],
+    "material": "WetFloor"
+  },
+  {
+    "name": "Washing_Tile",
+    "group": "01_GroundFloor",
+    "center": [
+      1.0,
+      10.65,
+      0.20600000000000002
+    ],
+    "size": [
+      2,
+      2.6999999999999993,
+      0.01200000000000001
+    ],
+    "material": "WetFloor"
+  },
+  {
+    "name": "Front_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      1.3,
+      0.0,
+      1.7000000000000002
+    ],
+    "size": [
+      2.6,
+      0.2,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Front_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      3.125,
+      0.0,
+      2.875
+    ],
+    "size": [
+      1.0499999999999998,
+      0.2,
+      0.6499999999999999
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Front_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      2.58,
+      0.0,
+      1.3750000000000002
+    ],
+    "size": [
+      0.040000000000000036,
+      0.225,
+      2.35
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Front_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      3.67,
+      0.0,
+      1.3750000000000002
+    ],
+    "size": [
+      0.040000000000000036,
+      0.225,
+      2.35
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Front_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      3.125,
+      0.0,
+      2.5700000000000003
+    ],
+    "size": [
+      1.0499999999999998,
+      0.225,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Front_Pier1",
+    "group": "01_GroundFloor",
+    "center": [
+      4.075,
+      0.0,
+      1.7000000000000002
+    ],
+    "size": [
+      0.8500000000000001,
+      0.2,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Front_Sill1",
+    "group": "01_GroundFloor",
+    "center": [
+      5.65,
+      0.0,
+      0.575
+    ],
+    "size": [
+      2.3,
+      0.2,
+      0.75
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Front_Lintel1",
+    "group": "01_GroundFloor",
+    "center": [
+      5.65,
+      0.0,
+      2.95
+    ],
+    "size": [
+      2.3,
+      0.2,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Front_FrameL1",
+    "group": "01_GroundFloor",
+    "center": [
+      4.48,
+      0.0,
+      1.8250000000000002
+    ],
+    "size": [
+      0.040000000000000036,
+      0.225,
+      1.7500000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Front_FrameR1",
+    "group": "01_GroundFloor",
+    "center": [
+      6.82,
+      0.0,
+      1.8250000000000002
+    ],
+    "size": [
+      0.040000000000000036,
+      0.225,
+      1.7500000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Front_FrameTop1",
+    "group": "01_GroundFloor",
+    "center": [
+      5.65,
+      0.0,
+      2.72
+    ],
+    "size": [
+      2.3,
+      0.225,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Front_FrameBottom1",
+    "group": "01_GroundFloor",
+    "center": [
+      5.65,
+      0.0,
+      0.9299999999999999
+    ],
+    "size": [
+      2.3,
+      0.225,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Front_End",
+    "group": "01_GroundFloor",
+    "center": [
+      7.199999999999999,
+      0.0,
+      1.7000000000000002
+    ],
+    "size": [
+      0.7999999999999998,
+      0.2,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.15,
+      12.0,
+      1.7000000000000002
+    ],
+    "size": [
+      0.3,
+      0.1999999999999993,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.9,
+      12.0,
+      2.85
+    ],
+    "size": [
+      1.2,
+      0.1999999999999993,
+      0.7000000000000002
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.28,
+      12.0,
+      1.35
+    ],
+    "size": [
+      0.03999999999999998,
+      0.22500000000000142,
+      2.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      1.52,
+      12.0,
+      1.35
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      2.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.9,
+      12.0,
+      2.52
+    ],
+    "size": [
+      1.2,
+      0.22500000000000142,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_Pier1",
+    "group": "01_GroundFloor",
+    "center": [
+      1.925,
+      12.0,
+      1.7000000000000002
+    ],
+    "size": [
+      0.8500000000000001,
+      0.1999999999999993,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_Sill1",
+    "group": "01_GroundFloor",
+    "center": [
+      2.75,
+      12.0,
+      1.025
+    ],
+    "size": [
+      0.7999999999999998,
+      0.1999999999999993,
+      1.65
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_Lintel1",
+    "group": "01_GroundFloor",
+    "center": [
+      2.75,
+      12.0,
+      2.875
+    ],
+    "size": [
+      0.7999999999999998,
+      0.1999999999999993,
+      0.6499999999999999
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_FrameL1",
+    "group": "01_GroundFloor",
+    "center": [
+      2.33,
+      12.0,
+      2.2
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      0.7000000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_FrameR1",
+    "group": "01_GroundFloor",
+    "center": [
+      3.17,
+      12.0,
+      2.2
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      0.7000000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_FrameTop1",
+    "group": "01_GroundFloor",
+    "center": [
+      2.75,
+      12.0,
+      2.5700000000000003
+    ],
+    "size": [
+      0.7999999999999998,
+      0.22500000000000142,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_FrameBottom1",
+    "group": "01_GroundFloor",
+    "center": [
+      2.75,
+      12.0,
+      1.8299999999999998
+    ],
+    "size": [
+      0.7999999999999998,
+      0.22500000000000142,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_Pier2",
+    "group": "01_GroundFloor",
+    "center": [
+      3.625,
+      12.0,
+      1.7000000000000002
+    ],
+    "size": [
+      0.9499999999999997,
+      0.1999999999999993,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_Sill2",
+    "group": "01_GroundFloor",
+    "center": [
+      5.5,
+      12.0,
+      0.6
+    ],
+    "size": [
+      2.8000000000000007,
+      0.1999999999999993,
+      0.8
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_Lintel2",
+    "group": "01_GroundFloor",
+    "center": [
+      5.5,
+      12.0,
+      2.95
+    ],
+    "size": [
+      2.8000000000000007,
+      0.1999999999999993,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Rear_FrameL2",
+    "group": "01_GroundFloor",
+    "center": [
+      4.08,
+      12.0,
+      1.85
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_FrameR2",
+    "group": "01_GroundFloor",
+    "center": [
+      6.92,
+      12.0,
+      1.85
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_FrameTop2",
+    "group": "01_GroundFloor",
+    "center": [
+      5.5,
+      12.0,
+      2.72
+    ],
+    "size": [
+      2.8000000000000007,
+      0.22500000000000142,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_FrameBottom2",
+    "group": "01_GroundFloor",
+    "center": [
+      5.5,
+      12.0,
+      0.98
+    ],
+    "size": [
+      2.8000000000000007,
+      0.22500000000000142,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Rear_End",
+    "group": "01_GroundFloor",
+    "center": [
+      7.25,
+      12.0,
+      1.7000000000000002
+    ],
+    "size": [
+      0.6999999999999993,
+      0.1999999999999993,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      2.3,
+      1.7000000000000002
+    ],
+    "size": [
+      0.2,
+      4.6,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_Sill0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      5.199999999999999,
+      0.65
+    ],
+    "size": [
+      0.2,
+      1.2000000000000002,
+      0.9000000000000001
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      5.199999999999999,
+      2.9000000000000004
+    ],
+    "size": [
+      0.2,
+      1.2000000000000002,
+      0.6000000000000001
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      4.58,
+      1.85
+    ],
+    "size": [
+      0.225,
+      0.040000000000000036,
+      1.5
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      5.82,
+      1.85
+    ],
+    "size": [
+      0.225,
+      0.040000000000000036,
+      1.5
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      5.199999999999999,
+      2.62
+    ],
+    "size": [
+      0.225,
+      1.2000000000000002,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameBottom0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      5.199999999999999,
+      1.08
+    ],
+    "size": [
+      0.225,
+      1.2000000000000002,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_Pier1",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      6.574999999999999,
+      1.7000000000000002
+    ],
+    "size": [
+      0.2,
+      1.5499999999999998,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_Sill1",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      7.925,
+      0.75
+    ],
+    "size": [
+      0.2,
+      1.1500000000000004,
+      1.1
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_Lintel1",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      7.925,
+      2.9000000000000004
+    ],
+    "size": [
+      0.2,
+      1.1500000000000004,
+      0.6000000000000001
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_FrameL1",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      7.33,
+      1.9500000000000002
+    ],
+    "size": [
+      0.225,
+      0.040000000000000036,
+      1.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameR1",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      8.52,
+      1.9500000000000002
+    ],
+    "size": [
+      0.225,
+      0.03999999999999915,
+      1.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameTop1",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      7.925,
+      2.62
+    ],
+    "size": [
+      0.225,
+      1.1500000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameBottom1",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      7.925,
+      1.28
+    ],
+    "size": [
+      0.225,
+      1.1500000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_Pier2",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      9.25,
+      1.7000000000000002
+    ],
+    "size": [
+      0.2,
+      1.5,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_Sill2",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      10.7,
+      0.7
+    ],
+    "size": [
+      0.2,
+      1.4000000000000004,
+      1.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_Lintel2",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      10.7,
+      2.9000000000000004
+    ],
+    "size": [
+      0.2,
+      1.4000000000000004,
+      0.6000000000000001
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Left_FrameL2",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      9.98,
+      1.9
+    ],
+    "size": [
+      0.225,
+      0.03999999999999915,
+      1.4000000000000001
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameR2",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      11.42,
+      1.9
+    ],
+    "size": [
+      0.225,
+      0.03999999999999915,
+      1.4000000000000001
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameTop2",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      10.7,
+      2.62
+    ],
+    "size": [
+      0.225,
+      1.4000000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_FrameBottom2",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      10.7,
+      1.18
+    ],
+    "size": [
+      0.225,
+      1.4000000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Left_End",
+    "group": "01_GroundFloor",
+    "center": [
+      0.0,
+      11.7,
+      1.7000000000000002
+    ],
+    "size": [
+      0.2,
+      0.5999999999999996,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RightFront_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      0.45,
+      1.7000000000000002
+    ],
+    "size": [
+      0.1999999999999993,
+      0.9,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RightFront_Sill0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      2.0,
+      0.575
+    ],
+    "size": [
+      0.1999999999999993,
+      2.2,
+      0.75
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RightFront_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      2.0,
+      2.95
+    ],
+    "size": [
+      0.1999999999999993,
+      2.2,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RightFront_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      0.88,
+      1.8250000000000002
+    ],
+    "size": [
+      0.22499999999999964,
+      0.040000000000000036,
+      1.7500000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "RightFront_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      3.12,
+      1.8250000000000002
+    ],
+    "size": [
+      0.22499999999999964,
+      0.040000000000000036,
+      1.7500000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "RightFront_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      2.0,
+      2.72
+    ],
+    "size": [
+      0.22499999999999964,
+      2.2,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "RightFront_FrameBottom0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      2.0,
+      0.9299999999999999
+    ],
+    "size": [
+      0.22499999999999964,
+      2.2,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "RightFront_End",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      3.55,
+      1.7000000000000002
+    ],
+    "size": [
+      0.1999999999999993,
+      0.8999999999999999,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RightBedroom_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      8.4,
+      1.7000000000000002
+    ],
+    "size": [
+      0.1999999999999993,
+      0.8000000000000007,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RightBedroom_Sill0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      9.9,
+      0.6
+    ],
+    "size": [
+      0.1999999999999993,
+      2.1999999999999993,
+      0.8
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RightBedroom_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      9.9,
+      2.95
+    ],
+    "size": [
+      0.1999999999999993,
+      2.1999999999999993,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RightBedroom_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      8.780000000000001,
+      1.85
+    ],
+    "size": [
+      0.22499999999999964,
+      0.03999999999999915,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "RightBedroom_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      11.02,
+      1.85
+    ],
+    "size": [
+      0.22499999999999964,
+      0.03999999999999915,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "RightBedroom_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      9.9,
+      2.72
+    ],
+    "size": [
+      0.22499999999999964,
+      2.1999999999999993,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "RightBedroom_FrameBottom0",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      9.9,
+      0.98
+    ],
+    "size": [
+      0.22499999999999964,
+      2.1999999999999993,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "RightBedroom_End",
+    "group": "01_GroundFloor",
+    "center": [
+      7.6,
+      11.5,
+      1.7000000000000002
+    ],
+    "size": [
+      0.1999999999999993,
+      1,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom1_Front_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      3.725,
+      8.0,
+      1.7000000000000002
+    ],
+    "size": [
+      0.25,
+      0.14999999999999947,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom1_Front_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      4.35,
+      8.0,
+      2.85
+    ],
+    "size": [
+      0.9999999999999996,
+      0.14999999999999947,
+      0.7000000000000002
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom1_Front_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      3.83,
+      8.0,
+      1.35
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom1_Front_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      4.869999999999999,
+      8.0,
+      1.35
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom1_Front_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      4.35,
+      8.0,
+      2.52
+    ],
+    "size": [
+      0.9999999999999996,
+      0.1750000000000007,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom1_Front_End",
+    "group": "01_GroundFloor",
+    "center": [
+      6.225,
+      8.0,
+      1.7000000000000002
+    ],
+    "size": [
+      2.75,
+      0.14999999999999947,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom1_Left_End",
+    "group": "01_GroundFloor",
+    "center": [
+      3.6,
+      10.0,
+      1.7000000000000002
+    ],
+    "size": [
+      0.15000000000000036,
+      4,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bathroom1_Left_End",
+    "group": "01_GroundFloor",
+    "center": [
+      2.0,
+      10.65,
+      1.7000000000000002
+    ],
+    "size": [
+      0.15000000000000013,
+      2.6999999999999993,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bathroom1_Front_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      2.275,
+      9.3,
+      1.7000000000000002
+    ],
+    "size": [
+      0.5499999999999998,
+      0.14999999999999858,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bathroom1_Front_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      3.0,
+      9.3,
+      2.825
+    ],
+    "size": [
+      0.9000000000000004,
+      0.14999999999999858,
+      0.75
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bathroom1_Front_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      2.53,
+      9.3,
+      1.3250000000000002
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.25
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bathroom1_Front_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      3.47,
+      9.3,
+      1.3250000000000002
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.25
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bathroom1_Front_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      3.0,
+      9.3,
+      2.47
+    ],
+    "size": [
+      0.9000000000000004,
+      0.1750000000000007,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bathroom1_Front_End",
+    "group": "01_GroundFloor",
+    "center": [
+      3.5250000000000004,
+      9.3,
+      1.7000000000000002
+    ],
+    "size": [
+      0.1499999999999999,
+      0.14999999999999858,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Kitchen_LeftZone_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      2.0,
+      7.3,
+      1.7000000000000002
+    ],
+    "size": [
+      0.15000000000000013,
+      1.0,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Kitchen_LeftZone_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      2.0,
+      8.325,
+      2.85
+    ],
+    "size": [
+      0.15000000000000013,
+      1.0499999999999998,
+      0.7000000000000002
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Kitchen_LeftZone_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      2.0,
+      7.779999999999999,
+      1.35
+    ],
+    "size": [
+      0.17499999999999982,
+      0.040000000000000036,
+      2.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Kitchen_LeftZone_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      2.0,
+      8.87,
+      1.35
+    ],
+    "size": [
+      0.17499999999999982,
+      0.03999999999999915,
+      2.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Kitchen_LeftZone_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      2.0,
+      8.325,
+      2.52
+    ],
+    "size": [
+      0.17499999999999982,
+      1.0499999999999998,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Kitchen_LeftZone_End",
+    "group": "01_GroundFloor",
+    "center": [
+      2.0,
+      9.075,
+      1.7000000000000002
+    ],
+    "size": [
+      0.15000000000000013,
+      0.45000000000000107,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Kitchen_Pantry_End",
+    "group": "01_GroundFloor",
+    "center": [
+      1.0,
+      6.8,
+      1.7000000000000002
+    ],
+    "size": [
+      2,
+      0.15000000000000036,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Kitchen_Washing_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.325,
+      9.3,
+      1.7000000000000002
+    ],
+    "size": [
+      0.65,
+      0.14999999999999858,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Kitchen_Washing_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      1.125,
+      9.3,
+      2.85
+    ],
+    "size": [
+      0.9500000000000001,
+      0.14999999999999858,
+      0.7000000000000002
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Kitchen_Washing_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      0.63,
+      9.3,
+      1.35
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Kitchen_Washing_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      1.62,
+      9.3,
+      1.35
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.3
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Kitchen_Washing_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      1.125,
+      9.3,
+      2.52
+    ],
+    "size": [
+      0.9500000000000001,
+      0.1750000000000007,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Kitchen_Washing_End",
+    "group": "01_GroundFloor",
+    "center": [
+      1.8,
+      9.3,
+      1.7000000000000002
+    ],
+    "size": [
+      0.3999999999999999,
+      0.14999999999999858,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Dining_Terrace_Pier0",
+    "group": "01_GroundFloor",
+    "center": [
+      6.1,
+      4.275,
+      1.7000000000000002
+    ],
+    "size": [
+      0.15000000000000036,
+      0.5499999999999998,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Dining_Terrace_Lintel0",
+    "group": "01_GroundFloor",
+    "center": [
+      6.1,
+      5.75,
+      2.95
+    ],
+    "size": [
+      0.15000000000000036,
+      2.4000000000000004,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Dining_Terrace_FrameL0",
+    "group": "01_GroundFloor",
+    "center": [
+      6.1,
+      4.529999999999999,
+      1.4500000000000002
+    ],
+    "size": [
+      0.1750000000000007,
+      0.040000000000000036,
+      2.5
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Dining_Terrace_FrameR0",
+    "group": "01_GroundFloor",
+    "center": [
+      6.1,
+      6.970000000000001,
+      1.4500000000000002
+    ],
+    "size": [
+      0.1750000000000007,
+      0.040000000000000036,
+      2.5
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Dining_Terrace_FrameTop0",
+    "group": "01_GroundFloor",
+    "center": [
+      6.1,
+      5.75,
+      2.72
+    ],
+    "size": [
+      0.1750000000000007,
+      2.4000000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Dining_Terrace_End",
+    "group": "01_GroundFloor",
+    "center": [
+      6.1,
+      7.475,
+      1.7000000000000002
+    ],
+    "size": [
+      0.15000000000000036,
+      1.0499999999999998,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Terrace_FrontReturn_End",
+    "group": "01_GroundFloor",
+    "center": [
+      6.85,
+      4.0,
+      1.7000000000000002
+    ],
+    "size": [
+      1.5,
+      0.15000000000000036,
+      3.0
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Side_Terrace_Paving",
+    "group": "01_GroundFloor",
+    "center": [
+      6.9,
+      6.0,
+      0.20750000000000002
+    ],
+    "size": [
+      1.3999999999999995,
+      3.8000000000000007,
+      0.015000000000000013
+    ],
+    "material": "Paving"
+  },
+  {
+    "name": "Side_Terrace_Parapet",
+    "group": "01_GroundFloor",
+    "center": [
+      7.575,
+      6.0,
+      0.6
+    ],
+    "size": [
+      0.15000000000000036,
+      4,
+      0.8
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Ground_Column",
+    "group": "01_GroundFloor",
+    "center": [
+      0.04000000000000001,
+      0.0,
+      1.8
+    ],
+    "size": [
+      0.26,
+      0.26,
+      3.1999999999999997
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Ground_Column",
+    "group": "01_GroundFloor",
+    "center": [
+      0.04000000000000001,
+      4.0,
+      1.8
+    ],
+    "size": [
+      0.26,
+      0.2599999999999998,
+      3.1999999999999997
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Ground_Column",
+    "group": "01_GroundFloor",
+    "center": [
+      0.04000000000000001,
+      8.0,
+      1.8
+    ],
+    "size": [
+      0.26,
+      0.2600000000000007,
+      3.1999999999999997
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Ground_Column",
+    "group": "01_GroundFloor",
+    "center": [
+      0.04000000000000001,
+      12.0,
+      1.8
+    ],
+    "size": [
+      0.26,
+      0.26000000000000156,
+      3.1999999999999997
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Ground_Column",
+    "group": "01_GroundFloor",
+    "center": [
+      7.56,
+      0.0,
+      1.8
+    ],
+    "size": [
+      0.2599999999999998,
+      0.26,
+      3.1999999999999997
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Ground_Column",
+    "group": "01_GroundFloor",
+    "center": [
+      7.56,
+      4.0,
+      1.8
+    ],
+    "size": [
+      0.2599999999999998,
+      0.2599999999999998,
+      3.1999999999999997
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Ground_Column",
+    "group": "01_GroundFloor",
+    "center": [
+      7.56,
+      8.0,
+      1.8
+    ],
+    "size": [
+      0.2599999999999998,
+      0.2600000000000007,
+      3.1999999999999997
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Ground_Column",
+    "group": "01_GroundFloor",
+    "center": [
+      7.56,
+      12.0,
+      1.8
+    ],
+    "size": [
+      0.2599999999999998,
+      0.26000000000000156,
+      3.1999999999999997
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Front_Upper_Support",
+    "group": "01_GroundFloor",
+    "center": [
+      2.1,
+      -3.42,
+      1.7
+    ],
+    "size": [
+      0.2599999999999998,
+      0.2599999999999998,
+      3.4
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Front_Upper_Support",
+    "group": "01_GroundFloor",
+    "center": [
+      7.5,
+      -3.42,
+      1.7
+    ],
+    "size": [
+      0.2599999999999998,
+      0.2599999999999998,
+      3.4
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "UnderStair_Storage_Back",
+    "group": "01_GroundFloor",
+    "center": [
+      1.775,
+      0.18,
+      0.825
+    ],
+    "size": [
+      1.1500000000000001,
+      0.1,
+      1.25
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Flight_A_01",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      3.85,
+      0.28
+    ],
+    "size": [
+      1.0999999999999999,
+      0.2999999999999998,
+      0.15999999999999998
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_A_02",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      3.5500000000000003,
+      0.36
+    ],
+    "size": [
+      1.0999999999999999,
+      0.2999999999999998,
+      0.32
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_A_03",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      3.25,
+      0.43999999999999995
+    ],
+    "size": [
+      1.0999999999999999,
+      0.2999999999999998,
+      0.4799999999999999
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_A_04",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      2.95,
+      0.5199999999999999
+    ],
+    "size": [
+      1.0999999999999999,
+      0.2999999999999998,
+      0.6399999999999999
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_A_05",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      2.65,
+      0.5999999999999999
+    ],
+    "size": [
+      1.0999999999999999,
+      0.2999999999999998,
+      0.7999999999999998
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_A_06",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      2.35,
+      0.6799999999999999
+    ],
+    "size": [
+      1.0999999999999999,
+      0.2999999999999998,
+      0.96
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_A_07",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      2.0500000000000003,
+      0.7599999999999999
+    ],
+    "size": [
+      1.0999999999999999,
+      0.30000000000000004,
+      1.1199999999999999
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_A_08",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      1.75,
+      0.8399999999999999
+    ],
+    "size": [
+      1.0999999999999999,
+      0.30000000000000004,
+      1.2799999999999998
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_A_09",
+    "group": "02_Staircase",
+    "center": [
+      1.87,
+      1.4500000000000002,
+      0.9199999999999998
+    ],
+    "size": [
+      1.0999999999999999,
+      0.30000000000000004,
+      1.4399999999999997
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Half_Landing",
+    "group": "02_Staircase",
+    "center": [
+      1.27,
+      0.725,
+      0.9999999999999998
+    ],
+    "size": [
+      2.3,
+      1.1500000000000001,
+      1.5999999999999996
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_01",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      1.435,
+      1.8799999999999997
+    ],
+    "size": [
+      1.1,
+      0.27,
+      0.16000000000000014
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_02",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      1.705,
+      1.9599999999999995
+    ],
+    "size": [
+      1.1,
+      0.27,
+      0.32000000000000006
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_03",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      1.975,
+      2.0399999999999996
+    ],
+    "size": [
+      1.1,
+      0.27000000000000024,
+      0.4800000000000002
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_04",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      2.245,
+      2.1199999999999997
+    ],
+    "size": [
+      1.1,
+      0.27,
+      0.6400000000000003
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_05",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      2.5149999999999997,
+      2.1999999999999997
+    ],
+    "size": [
+      1.1,
+      0.27,
+      0.8
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_06",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      2.785,
+      2.28
+    ],
+    "size": [
+      1.1,
+      0.27,
+      0.9600000000000002
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_07",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      3.0549999999999997,
+      2.36
+    ],
+    "size": [
+      1.1,
+      0.27,
+      1.1200000000000003
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_08",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      3.325,
+      2.4399999999999995
+    ],
+    "size": [
+      1.1,
+      0.27,
+      1.28
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_09",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      3.5949999999999998,
+      2.5199999999999996
+    ],
+    "size": [
+      1.1,
+      0.27,
+      1.4400000000000002
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Flight_B_10",
+    "group": "02_Staircase",
+    "center": [
+      0.6699999999999999,
+      3.865,
+      2.5999999999999996
+    ],
+    "size": [
+      1.1,
+      0.2699999999999996,
+      1.5999999999999999
+    ],
+    "material": "Floor"
+  },
+  {
+    "name": "Stair_Center_Divider",
+    "group": "02_Staircase",
+    "center": [
+      1.27,
+      2.65,
+      2.25
+    ],
+    "size": [
+      0.08000000000000007,
+      2.7,
+      4.1
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Flight_A_OuterPost_00",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      1.3175,
+      2.1149999999999998
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03499999999999992,
+      0.9500000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_01",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      1.5875,
+      1.9549999999999996
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03499999999999992,
+      0.95
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_02",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      1.8575,
+      1.7949999999999997
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03499999999999992,
+      0.9499999999999997
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_03",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      2.1275000000000004,
+      1.6349999999999998
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03500000000000014,
+      0.95
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_04",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      2.3975,
+      1.4749999999999996
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03500000000000014,
+      0.95
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_05",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      2.6675000000000004,
+      1.315
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03500000000000014,
+      0.95
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_06",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      2.9375,
+      1.1549999999999998
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03500000000000014,
+      0.95
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_07",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      3.2075000000000005,
+      0.995
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03500000000000014,
+      0.95
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_08",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      3.4775,
+      0.835
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03500000000000014,
+      0.9500000000000001
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_OuterPost_09",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      3.7475000000000005,
+      0.6749999999999999
+    ],
+    "size": [
+      0.040000000000000036,
+      0.03500000000000014,
+      0.95
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Flight_A_Handrail",
+    "group": "02_Staircase",
+    "center": [
+      2.41,
+      2.65,
+      1.8699999999999999
+    ],
+    "size": [
+      0.06000000000000005,
+      3.0599999999999996,
+      0.06000000000000005
+    ],
+    "material": "Trim",
+    "rotation_x": -0.4899573262537282
+  },
+  {
+    "name": "Upper_Stair_Guard",
+    "group": "02_Staircase",
+    "center": [
+      2.46,
+      2.075,
+      3.9000000000000004
+    ],
+    "size": [
+      0.08000000000000007,
+      3.85,
+      1.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Main_Slab",
+    "group": "03_UpperFloor",
+    "center": [
+      5.05,
+      6.0,
+      3.3
+    ],
+    "size": [
+      5.1,
+      12,
+      0.20000000000000018
+    ],
+    "material": "UpperFloor"
+  },
+  {
+    "name": "Upper_Rear_Slab",
+    "group": "03_UpperFloor",
+    "center": [
+      1.25,
+      8.0,
+      3.3
+    ],
+    "size": [
+      2.5,
+      8,
+      0.20000000000000018
+    ],
+    "material": "UpperFloor"
+  },
+  {
+    "name": "Master_Slab",
+    "group": "03_UpperFloor",
+    "center": [
+      4.8,
+      -1.8,
+      3.3
+    ],
+    "size": [
+      5.6,
+      3.6,
+      0.20000000000000018
+    ],
+    "material": "UpperFloor"
+  },
+  {
+    "name": "Balcony_Slab",
+    "group": "03_UpperFloor",
+    "center": [
+      4.8,
+      -4.1,
+      3.3
+    ],
+    "size": [
+      5.6,
+      0.9999999999999996,
+      0.20000000000000018
+    ],
+    "material": "Concrete"
+  },
+  {
+    "name": "Upper_Left_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      0.3,
+      4.9
+    ],
+    "size": [
+      0.2,
+      0.6,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_Sill0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      1.8,
+      4.05
+    ],
+    "size": [
+      0.2,
+      2.4,
+      1.3000000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      1.8,
+      6.15
+    ],
+    "size": [
+      0.2,
+      2.4,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      0.58,
+      5.300000000000001
+    ],
+    "size": [
+      0.225,
+      0.040000000000000036,
+      1.2000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      3.02,
+      5.300000000000001
+    ],
+    "size": [
+      0.225,
+      0.040000000000000036,
+      1.2000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      1.8,
+      5.92
+    ],
+    "size": [
+      0.225,
+      2.4,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameBottom0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      1.8,
+      4.68
+    ],
+    "size": [
+      0.225,
+      2.4,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_Pier1",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      3.85,
+      4.9
+    ],
+    "size": [
+      0.2,
+      1.7000000000000002,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_Sill1",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      5.6,
+      3.8499999999999996
+    ],
+    "size": [
+      0.2,
+      1.7999999999999998,
+      0.8999999999999999
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_Lintel1",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      5.6,
+      6.15
+    ],
+    "size": [
+      0.2,
+      1.7999999999999998,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_FrameL1",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      4.68,
+      5.1
+    ],
+    "size": [
+      0.225,
+      0.040000000000000036,
+      1.6000000000000005
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameR1",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      6.52,
+      5.1
+    ],
+    "size": [
+      0.225,
+      0.040000000000000036,
+      1.6000000000000005
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameTop1",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      5.6,
+      5.92
+    ],
+    "size": [
+      0.225,
+      1.7999999999999998,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameBottom1",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      5.6,
+      4.279999999999999
+    ],
+    "size": [
+      0.225,
+      1.7999999999999998,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_Pier2",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      7.65,
+      4.9
+    ],
+    "size": [
+      0.2,
+      2.3000000000000007,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_Sill2",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      9.9,
+      3.8
+    ],
+    "size": [
+      0.2,
+      2.1999999999999993,
+      0.8000000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_Lintel2",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      9.9,
+      6.15
+    ],
+    "size": [
+      0.2,
+      2.1999999999999993,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Left_FrameL2",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      8.780000000000001,
+      5.050000000000001
+    ],
+    "size": [
+      0.225,
+      0.03999999999999915,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameR2",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      11.02,
+      5.050000000000001
+    ],
+    "size": [
+      0.225,
+      0.03999999999999915,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameTop2",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      9.9,
+      5.92
+    ],
+    "size": [
+      0.225,
+      2.1999999999999993,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_FrameBottom2",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      9.9,
+      4.18
+    ],
+    "size": [
+      0.225,
+      2.1999999999999993,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Left_End",
+    "group": "03_UpperFloor",
+    "center": [
+      0.0,
+      11.5,
+      4.9
+    ],
+    "size": [
+      0.2,
+      1,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Rear_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.325,
+      12.0,
+      4.9
+    ],
+    "size": [
+      0.65,
+      0.1999999999999993,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Rear_Sill0",
+    "group": "03_UpperFloor",
+    "center": [
+      1.875,
+      12.0,
+      3.8
+    ],
+    "size": [
+      2.45,
+      0.1999999999999993,
+      0.8000000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Rear_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      1.875,
+      12.0,
+      6.15
+    ],
+    "size": [
+      2.45,
+      0.1999999999999993,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Rear_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.63,
+      12.0,
+      5.050000000000001
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Rear_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.12,
+      12.0,
+      5.050000000000001
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Rear_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      1.875,
+      12.0,
+      5.92
+    ],
+    "size": [
+      2.45,
+      0.22500000000000142,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Rear_FrameBottom0",
+    "group": "03_UpperFloor",
+    "center": [
+      1.875,
+      12.0,
+      4.18
+    ],
+    "size": [
+      2.45,
+      0.22500000000000142,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Rear_Pier1",
+    "group": "03_UpperFloor",
+    "center": [
+      3.7750000000000004,
+      12.0,
+      4.9
+    ],
+    "size": [
+      1.35,
+      0.1999999999999993,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Rear_Sill1",
+    "group": "03_UpperFloor",
+    "center": [
+      5.7,
+      12.0,
+      3.8
+    ],
+    "size": [
+      2.5,
+      0.1999999999999993,
+      0.8000000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Rear_Lintel1",
+    "group": "03_UpperFloor",
+    "center": [
+      5.7,
+      12.0,
+      6.15
+    ],
+    "size": [
+      2.5,
+      0.1999999999999993,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Rear_FrameL1",
+    "group": "03_UpperFloor",
+    "center": [
+      4.43,
+      12.0,
+      5.050000000000001
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Rear_FrameR1",
+    "group": "03_UpperFloor",
+    "center": [
+      6.970000000000001,
+      12.0,
+      5.050000000000001
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22500000000000142,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Rear_FrameTop1",
+    "group": "03_UpperFloor",
+    "center": [
+      5.7,
+      12.0,
+      5.92
+    ],
+    "size": [
+      2.5,
+      0.22500000000000142,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Rear_FrameBottom1",
+    "group": "03_UpperFloor",
+    "center": [
+      5.7,
+      12.0,
+      4.18
+    ],
+    "size": [
+      2.5,
+      0.22500000000000142,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Rear_End",
+    "group": "03_UpperFloor",
+    "center": [
+      7.275,
+      12.0,
+      4.9
+    ],
+    "size": [
+      0.6499999999999995,
+      0.1999999999999993,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      -3.25,
+      4.9
+    ],
+    "size": [
+      0.1999999999999993,
+      0.7000000000000002,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Sill0",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      -1.85,
+      3.8
+    ],
+    "size": [
+      0.1999999999999993,
+      2.0999999999999996,
+      0.8000000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      -1.85,
+      6.15
+    ],
+    "size": [
+      0.1999999999999993,
+      2.0999999999999996,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      -2.92,
+      5.050000000000001
+    ],
+    "size": [
+      0.22499999999999964,
+      0.040000000000000036,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      -0.78,
+      5.050000000000001
+    ],
+    "size": [
+      0.22499999999999964,
+      0.040000000000000036,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      -1.85,
+      5.92
+    ],
+    "size": [
+      0.22499999999999964,
+      2.0999999999999996,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameBottom0",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      -1.85,
+      4.18
+    ],
+    "size": [
+      0.22499999999999964,
+      2.0999999999999996,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_Pier1",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      0.9999999999999999,
+      4.9
+    ],
+    "size": [
+      0.1999999999999993,
+      3.5999999999999996,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Sill1",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      3.25,
+      4.2
+    ],
+    "size": [
+      0.1999999999999993,
+      0.9000000000000004,
+      1.6
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Lintel1",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      3.25,
+      6.1
+    ],
+    "size": [
+      0.1999999999999993,
+      0.9000000000000004,
+      0.6000000000000005
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_FrameL1",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      2.78,
+      5.4
+    ],
+    "size": [
+      0.22499999999999964,
+      0.040000000000000036,
+      0.7999999999999998
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameR1",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      3.72,
+      5.4
+    ],
+    "size": [
+      0.22499999999999964,
+      0.040000000000000036,
+      0.7999999999999998
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameTop1",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      3.25,
+      5.82
+    ],
+    "size": [
+      0.22499999999999964,
+      0.9000000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameBottom1",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      3.25,
+      4.98
+    ],
+    "size": [
+      0.22499999999999964,
+      0.9000000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_Pier2",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      5.1,
+      4.9
+    ],
+    "size": [
+      0.1999999999999993,
+      2.8,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Sill2",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      6.95,
+      4.225
+    ],
+    "size": [
+      0.1999999999999993,
+      0.9000000000000004,
+      1.65
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Lintel2",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      6.95,
+      6.1
+    ],
+    "size": [
+      0.1999999999999993,
+      0.9000000000000004,
+      0.6000000000000005
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_FrameL2",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      6.48,
+      5.425
+    ],
+    "size": [
+      0.22499999999999964,
+      0.040000000000000036,
+      0.75
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameR2",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      7.42,
+      5.425
+    ],
+    "size": [
+      0.22499999999999964,
+      0.040000000000000036,
+      0.75
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameTop2",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      6.95,
+      5.82
+    ],
+    "size": [
+      0.22499999999999964,
+      0.9000000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameBottom2",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      6.95,
+      5.029999999999999
+    ],
+    "size": [
+      0.22499999999999964,
+      0.9000000000000004,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_Pier3",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      8.100000000000001,
+      4.9
+    ],
+    "size": [
+      0.1999999999999993,
+      1.4000000000000004,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Sill3",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      9.9,
+      3.8
+    ],
+    "size": [
+      0.1999999999999993,
+      2.1999999999999993,
+      0.8000000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_Lintel3",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      9.9,
+      6.15
+    ],
+    "size": [
+      0.1999999999999993,
+      2.1999999999999993,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_Right_FrameL3",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      8.780000000000001,
+      5.050000000000001
+    ],
+    "size": [
+      0.22499999999999964,
+      0.03999999999999915,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameR3",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      11.02,
+      5.050000000000001
+    ],
+    "size": [
+      0.22499999999999964,
+      0.03999999999999915,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameTop3",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      9.9,
+      5.92
+    ],
+    "size": [
+      0.22499999999999964,
+      2.1999999999999993,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_FrameBottom3",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      9.9,
+      4.18
+    ],
+    "size": [
+      0.22499999999999964,
+      2.1999999999999993,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Upper_Right_End",
+    "group": "03_UpperFloor",
+    "center": [
+      7.6,
+      11.5,
+      4.9
+    ],
+    "size": [
+      0.1999999999999993,
+      1,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Upper_FrontLeft_End",
+    "group": "03_UpperFloor",
+    "center": [
+      1.0,
+      0.0,
+      4.9
+    ],
+    "size": [
+      2,
+      0.2,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_Left_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.0,
+      -3.25,
+      4.9
+    ],
+    "size": [
+      0.20000000000000018,
+      0.7000000000000002,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_Left_Sill0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.0,
+      -1.7999999999999998,
+      3.8
+    ],
+    "size": [
+      0.20000000000000018,
+      2.2,
+      0.8000000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_Left_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.0,
+      -1.7999999999999998,
+      6.15
+    ],
+    "size": [
+      0.20000000000000018,
+      2.2,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_Left_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.0,
+      -2.92,
+      5.050000000000001
+    ],
+    "size": [
+      0.22499999999999987,
+      0.040000000000000036,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_Left_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.0,
+      -0.6799999999999999,
+      5.050000000000001
+    ],
+    "size": [
+      0.22499999999999987,
+      0.040000000000000036,
+      1.7000000000000002
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_Left_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.0,
+      -1.7999999999999998,
+      5.92
+    ],
+    "size": [
+      0.22499999999999987,
+      2.2,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_Left_FrameBottom0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.0,
+      -1.7999999999999998,
+      4.18
+    ],
+    "size": [
+      0.22499999999999987,
+      2.2,
+      0.040000000000000036
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_Left_End",
+    "group": "03_UpperFloor",
+    "center": [
+      2.0,
+      -0.35,
+      4.9
+    ],
+    "size": [
+      0.20000000000000018,
+      0.7,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_Balcony_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.55,
+      -3.6,
+      4.9
+    ],
+    "size": [
+      1.1,
+      0.20000000000000018,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_Balcony_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.3,
+      -3.6,
+      6.15
+    ],
+    "size": [
+      2.4,
+      0.20000000000000018,
+      0.5
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_Balcony_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.08,
+      -3.6,
+      4.65
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22499999999999964,
+      2.5000000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_Balcony_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      5.52,
+      -3.6,
+      4.65
+    ],
+    "size": [
+      0.040000000000000036,
+      0.22499999999999964,
+      2.5000000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_Balcony_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.3,
+      -3.6,
+      5.92
+    ],
+    "size": [
+      2.4,
+      0.22499999999999964,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_Balcony_End",
+    "group": "03_UpperFloor",
+    "center": [
+      6.55,
+      -3.6,
+      4.9
+    ],
+    "size": [
+      2.0999999999999996,
+      0.20000000000000018,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom23_Divider_End",
+    "group": "03_UpperFloor",
+    "center": [
+      3.8,
+      10.0,
+      4.9
+    ],
+    "size": [
+      0.15000000000000036,
+      4,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom2_Front_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      1.275,
+      8.0,
+      4.9
+    ],
+    "size": [
+      2.55,
+      0.14999999999999947,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom2_Front_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.075,
+      8.0,
+      6.05
+    ],
+    "size": [
+      1.0500000000000003,
+      0.14999999999999947,
+      0.7000000000000011
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom2_Front_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.53,
+      8.0,
+      4.55
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.2999999999999994
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom2_Front_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.62,
+      8.0,
+      4.55
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.2999999999999994
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom2_Front_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.075,
+      8.0,
+      5.72
+    ],
+    "size": [
+      1.0500000000000003,
+      0.1750000000000007,
+      0.040000000000000924
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom2_Front_End",
+    "group": "03_UpperFloor",
+    "center": [
+      3.7,
+      8.0,
+      4.9
+    ],
+    "size": [
+      0.19999999999999973,
+      0.14999999999999947,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom3_Front_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.9,
+      8.0,
+      4.9
+    ],
+    "size": [
+      0.20000000000000018,
+      0.14999999999999947,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom3_Front_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.525,
+      8.0,
+      6.05
+    ],
+    "size": [
+      1.0499999999999998,
+      0.14999999999999947,
+      0.7000000000000011
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Bedroom3_Front_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.98,
+      8.0,
+      4.55
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.2999999999999994
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom3_Front_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      5.07,
+      8.0,
+      4.55
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.2999999999999994
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom3_Front_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.525,
+      8.0,
+      5.72
+    ],
+    "size": [
+      1.0499999999999998,
+      0.1750000000000007,
+      0.040000000000000924
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Bedroom3_Front_End",
+    "group": "03_UpperFloor",
+    "center": [
+      6.324999999999999,
+      8.0,
+      4.9
+    ],
+    "size": [
+      2.55,
+      0.14999999999999947,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "AC_Closet_Front_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.125,
+      6.3,
+      4.9
+    ],
+    "size": [
+      0.25,
+      0.15000000000000036,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "AC_Closet_Front_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.7,
+      6.3,
+      6.0
+    ],
+    "size": [
+      0.8999999999999999,
+      0.15000000000000036,
+      0.8000000000000007
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "AC_Closet_Front_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.22999999999999998,
+      6.3,
+      4.5
+    ],
+    "size": [
+      0.04000000000000001,
+      0.1750000000000007,
+      2.1999999999999997
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "AC_Closet_Front_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      1.17,
+      6.3,
+      4.5
+    ],
+    "size": [
+      0.040000000000000036,
+      0.1750000000000007,
+      2.1999999999999997
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "AC_Closet_Front_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      0.7,
+      6.3,
+      5.62
+    ],
+    "size": [
+      0.8999999999999999,
+      0.1750000000000007,
+      0.040000000000000924
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "AC_Closet_Front_End",
+    "group": "03_UpperFloor",
+    "center": [
+      1.275,
+      6.3,
+      4.9
+    ],
+    "size": [
+      0.25,
+      0.15000000000000036,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "AC_Closet_Right_End",
+    "group": "03_UpperFloor",
+    "center": [
+      1.4,
+      7.15,
+      4.9
+    ],
+    "size": [
+      0.1499999999999999,
+      1.7000000000000002,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC3_Front_End",
+    "group": "03_UpperFloor",
+    "center": [
+      6.25,
+      6.2,
+      4.9
+    ],
+    "size": [
+      2.6999999999999993,
+      0.15000000000000036,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC3_Left_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      6.45,
+      4.9
+    ],
+    "size": [
+      0.15000000000000036,
+      0.5,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC3_Left_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      7.15,
+      6.025
+    ],
+    "size": [
+      0.15000000000000036,
+      0.8999999999999995,
+      0.75
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC3_Left_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      6.68,
+      4.525
+    ],
+    "size": [
+      0.1750000000000007,
+      0.040000000000000036,
+      2.2500000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "WC3_Left_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      7.619999999999999,
+      4.525
+    ],
+    "size": [
+      0.1750000000000007,
+      0.040000000000000036,
+      2.2500000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "WC3_Left_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      7.15,
+      5.67
+    ],
+    "size": [
+      0.1750000000000007,
+      0.8999999999999995,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "WC3_Left_End",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      7.8,
+      4.9
+    ],
+    "size": [
+      0.15000000000000036,
+      0.40000000000000036,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC2_Left_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.8,
+      4.325,
+      4.9
+    ],
+    "size": [
+      0.15000000000000036,
+      0.25,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC2_Left_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.8,
+      4.9,
+      6.025
+    ],
+    "size": [
+      0.15000000000000036,
+      0.8999999999999995,
+      0.75
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC2_Left_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.8,
+      4.43,
+      4.525
+    ],
+    "size": [
+      0.17499999999999982,
+      0.040000000000000036,
+      2.2500000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "WC2_Left_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.8,
+      5.369999999999999,
+      4.525
+    ],
+    "size": [
+      0.17499999999999982,
+      0.040000000000000036,
+      2.2500000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "WC2_Left_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.8,
+      4.9,
+      5.67
+    ],
+    "size": [
+      0.17499999999999982,
+      0.8999999999999995,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "WC2_Left_End",
+    "group": "03_UpperFloor",
+    "center": [
+      3.8,
+      5.775,
+      4.9
+    ],
+    "size": [
+      0.15000000000000036,
+      0.8500000000000005,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC2_Front_End",
+    "group": "03_UpperFloor",
+    "center": [
+      5.199999999999999,
+      4.2,
+      4.9
+    ],
+    "size": [
+      2.8,
+      0.15000000000000036,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC2_Rear_End",
+    "group": "03_UpperFloor",
+    "center": [
+      4.35,
+      6.2,
+      4.9
+    ],
+    "size": [
+      1.1000000000000005,
+      0.15000000000000036,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC2_Right_End",
+    "group": "03_UpperFloor",
+    "center": [
+      6.6,
+      5.2,
+      4.9
+    ],
+    "size": [
+      0.15000000000000036,
+      2.0,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Onsen_Left_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      2.675,
+      4.9
+    ],
+    "size": [
+      0.15000000000000036,
+      0.3500000000000001,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Onsen_Left_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      3.3,
+      6.025
+    ],
+    "size": [
+      0.15000000000000036,
+      0.8999999999999999,
+      0.75
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Onsen_Left_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      2.83,
+      4.525
+    ],
+    "size": [
+      0.1750000000000007,
+      0.040000000000000036,
+      2.2500000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Onsen_Left_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      3.77,
+      4.525
+    ],
+    "size": [
+      0.1750000000000007,
+      0.040000000000000036,
+      2.2500000000000004
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Onsen_Left_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      3.3,
+      5.67
+    ],
+    "size": [
+      0.1750000000000007,
+      0.8999999999999999,
+      0.03999999999999915
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Onsen_Left_End",
+    "group": "03_UpperFloor",
+    "center": [
+      4.9,
+      3.975,
+      4.9
+    ],
+    "size": [
+      0.15000000000000036,
+      0.4500000000000002,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Onsen_Front_End",
+    "group": "03_UpperFloor",
+    "center": [
+      6.25,
+      2.5,
+      4.9
+    ],
+    "size": [
+      2.6999999999999993,
+      0.15000000000000036,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Onsen_RearReturn_End",
+    "group": "03_UpperFloor",
+    "center": [
+      7.1,
+      4.2,
+      4.9
+    ],
+    "size": [
+      1.0,
+      0.15000000000000036,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_WIC_Pier0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.325,
+      0.0,
+      4.9
+    ],
+    "size": [
+      0.6499999999999999,
+      0.15,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_WIC_Lintel0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.175,
+      0.0,
+      6.05
+    ],
+    "size": [
+      1.0500000000000003,
+      0.15,
+      0.7000000000000011
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Master_WIC_FrameL0",
+    "group": "03_UpperFloor",
+    "center": [
+      2.63,
+      0.0,
+      4.55
+    ],
+    "size": [
+      0.040000000000000036,
+      0.175,
+      2.2999999999999994
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_WIC_FrameR0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.72,
+      0.0,
+      4.55
+    ],
+    "size": [
+      0.040000000000000036,
+      0.175,
+      2.2999999999999994
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_WIC_FrameTop0",
+    "group": "03_UpperFloor",
+    "center": [
+      3.175,
+      0.0,
+      5.72
+    ],
+    "size": [
+      1.0500000000000003,
+      0.175,
+      0.040000000000000924
+    ],
+    "material": "Trim"
+  },
+  {
+    "name": "Master_WIC_End",
+    "group": "03_UpperFloor",
+    "center": [
+      5.65,
+      0.0,
+      4.9
+    ],
+    "size": [
+      3.8999999999999995,
+      0.15,
+      3.0000000000000004
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "WC2_Tile",
+    "group": "03_UpperFloor",
+    "center": [
+      5.2,
+      5.199999999999999,
+      3.4059999999999997
+    ],
+    "size": [
+      2.6,
+      1.7999999999999998,
+      0.01200000000000001
+    ],
+    "material": "WetFloor"
+  },
+  {
+    "name": "WC3_Tile",
+    "group": "03_UpperFloor",
+    "center": [
+      6.25,
+      7.1,
+      3.4059999999999997
+    ],
+    "size": [
+      2.5,
+      1.6000000000000005,
+      0.01200000000000001
+    ],
+    "material": "WetFloor"
+  },
+  {
+    "name": "Onsen_Tile",
+    "group": "03_UpperFloor",
+    "center": [
+      6.25,
+      3.3499999999999996,
+      3.4059999999999997
+    ],
+    "size": [
+      2.5,
+      1.4999999999999996,
+      0.01200000000000001
+    ],
+    "material": "WetFloor"
+  },
+  {
+    "name": "Balcony_Front_Parapet",
+    "group": "03_UpperFloor",
+    "center": [
+      4.8,
+      -4.535,
+      3.925
+    ],
+    "size": [
+      5.6,
+      0.1299999999999999,
+      1.0500000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Balcony_Left_Parapet",
+    "group": "03_UpperFloor",
+    "center": [
+      2.065,
+      -4.1,
+      3.925
+    ],
+    "size": [
+      0.1299999999999999,
+      0.9999999999999996,
+      1.0500000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Balcony_Right_Parapet",
+    "group": "03_UpperFloor",
+    "center": [
+      7.535,
+      -4.1,
+      3.925
+    ],
+    "size": [
+      0.1299999999999999,
+      0.9999999999999996,
+      1.0500000000000003
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "Roof_Main",
+    "group": "04_Roof",
+    "center": [
+      3.8,
+      6.0,
+      6.51
+    ],
+    "size": [
+      8.0,
+      12.399999999999999,
+      0.21999999999999975
+    ],
+    "material": "Roof"
+  },
+  {
+    "name": "Roof_Master",
+    "group": "04_Roof",
+    "center": [
+      4.8,
+      -2.0,
+      6.51
+    ],
+    "size": [
+      6.0,
+      3.5999999999999996,
+      0.21999999999999975
+    ],
+    "material": "Roof"
+  },
+  {
+    "name": "RoofRear_End",
+    "group": "04_Roof",
+    "center": [
+      3.8000000000000003,
+      12.1,
+      6.795
+    ],
+    "size": [
+      7.8,
+      0.120000000000001,
+      0.34999999999999964
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RoofLeft_End",
+    "group": "04_Roof",
+    "center": [
+      -0.1,
+      6.0,
+      6.795
+    ],
+    "size": [
+      0.12,
+      12.2,
+      0.34999999999999964
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RoofRight_End",
+    "group": "04_Roof",
+    "center": [
+      7.7,
+      4.199999999999999,
+      6.795
+    ],
+    "size": [
+      0.11999999999999922,
+      15.8,
+      0.34999999999999964
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RoofFront_End",
+    "group": "04_Roof",
+    "center": [
+      4.8,
+      -3.7,
+      6.795
+    ],
+    "size": [
+      5.800000000000001,
+      0.1200000000000001,
+      0.34999999999999964
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RoofInset_End",
+    "group": "04_Roof",
+    "center": [
+      1.9,
+      -1.9000000000000001,
+      6.795
+    ],
+    "size": [
+      0.1200000000000001,
+      3.6,
+      0.34999999999999964
+    ],
+    "material": "Plaster"
+  },
+  {
+    "name": "RoofReturn_End",
+    "group": "04_Roof",
+    "center": [
+      0.8999999999999999,
+      -0.1,
+      6.795
+    ],
+    "size": [
+      2.0,
+      0.12,
+      0.34999999999999964
+    ],
+    "material": "Plaster"
+  }
+]

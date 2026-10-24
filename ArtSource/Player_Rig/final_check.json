@@ -1,0 +1,9 @@
+{
+  "helper_addon_installed": true,
+  "reset_operators_pass": true,
+  "blender_bones": 200,
+  "vrm_roundtrip_import": true,
+  "spring_chains": 22,
+  "custom_expressions": 14,
+  "shape_keys_including_basis": 72
+}

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88684271e27adb843b6570957c9e7637, type: 3}
+  m_Name: _vrm1_
+  m_EditorClassIdentifier: VRM10::UniVRM10.VRM10Object
+  m_prefab: {fileID: -1728013695380148634, guid: 8d8fff1c0995a7944a7f7840861f6610, type: 3}
+  Meta:
+    Name: SIS
+    Version: undefined
+    Authors:
+    - MIK
+    CopyrightInformation: 
+    ContactInformation: 
+    References: []
+    ThirdPartyLicenses: 
+    Thumbnail: {fileID: 2800000, guid: 150134565002edd4e86ed0c1f0dc8446, type: 3}
+    AvatarPermission: 0
+    ViolentUsage: 0
+    SexualUsage: 0
+    CommercialUsage: 0
+    PoliticalOrReligiousUsage: 0
+    AntisocialOrHateUsage: 0
+    CreditNotation: 0
+    Redistribution: 0
+    Modification: 0
+    OtherLicenseUrl: 
+  Expression:
+    Happy: {fileID: 11400000, guid: 9f949595233941548b690ce07106d6b4, type: 2}
+    Angry: {fileID: 11400000, guid: 0019ca5dfa380e94ca93e32d0b8fe523, type: 2}
+    Sad: {fileID: 11400000, guid: a09c0678edc91f446b554a45cd707a62, type: 2}
+    Relaxed: {fileID: 11400000, guid: 812fc8f96671c7c40b0f5deafc2c7d1b, type: 2}
+    Surprised: {fileID: 11400000, guid: 7315ffb7748271244a0bb446ade9bfbd, type: 2}
+    Aa: {fileID: 11400000, guid: e8943a15f27f6a44ebf0ea30c3182844, type: 2}
+    Ih: {fileID: 11400000, guid: e92f472015b780b43b6701bf5e0e3467, type: 2}
+    Ou: {fileID: 11400000, guid: ee20c1946aa0fd44ab40c1376f70c502, type: 2}
+    Ee: {fileID: 11400000, guid: a18a0ec49dfb2394b8ef55b8e1b719d5, type: 2}
+    Oh: {fileID: 11400000, guid: 0166baff75c839b49b69262e1ba185cf, type: 2}
+    Blink: {fileID: 11400000, guid: 4aa7bfb2d197a9c4e9fb87d9f0d9e540, type: 2}
+    BlinkLeft: {fileID: 11400000, guid: 66b7aacb1f9055c49b8b23bfe1a38089, type: 2}
+    BlinkRight: {fileID: 11400000, guid: 65a3b7c7148c8404fb7eb3854f77eacf, type: 2}
+    LookUp: {fileID: 11400000, guid: 39317bd0f55086749a41f6341a4d8f07, type: 2}
+    LookDown: {fileID: 11400000, guid: b3cbe1b9643a1534d85b0687d3d40fb2, type: 2}
+    LookLeft: {fileID: 11400000, guid: 151d122d5f3db1944953cf9a4b9f4b99, type: 2}
+    LookRight: {fileID: 11400000, guid: 8809a1540821ebf48824f83f7391e694, type: 2}
+    Neutral: {fileID: 11400000, guid: 3089f8b728bdf2245b71dd7c64756985, type: 2}
+    CustomClips:
+    - {fileID: 11400000, guid: 37ec14d226c8a6c43a2031f4142867c3, type: 2}
+    - {fileID: 11400000, guid: e61842dab1d50cf46824679e966f0864, type: 2}
+    - {fileID: 11400000, guid: a1f3eb0a529cd5b489bfab1b48706813, type: 2}
+    - {fileID: 11400000, guid: 401e8cdab8e8ba14ba43ce8b87df51eb, type: 2}
+    - {fileID: 11400000, guid: d0f3e78c236be4c4488fd96c0d11a1e7, type: 2}
+    - {fileID: 11400000, guid: 0ac21cd4bd80e7d4d90a9f4b46f102e1, type: 2}
+    - {fileID: 11400000, guid: 160507177f1417f449fca81f759fa01a, type: 2}
+    - {fileID: 11400000, guid: 9f2fabfa23519f34e8b1d0ff46d4b401, type: 2}
+    - {fileID: 11400000, guid: fb23ba8db21c1204a9d6f90a7902d51a, type: 2}
+    - {fileID: 11400000, guid: 8a8f10cba7f744342a73b0383b37731c, type: 2}
+    - {fileID: 11400000, guid: 0499f5ce72ace374f9ae7f9558a41ce4, type: 2}
+    - {fileID: 11400000, guid: b48b1a9f49b78f7479668c559801c821, type: 2}
+    - {fileID: 11400000, guid: 10083925edccb3d4d9654229262a033c, type: 2}
+    - {fileID: 11400000, guid: f7303a178f267a744b0e017ccd27543a, type: 2}
+  LookAt:
+    OffsetFromHead: {x: -0, y: 0.06, z: 0}
+    LookAtType: 0
+    HorizontalOuter:
+      CurveXRangeDegree: 90
+      CurveYRangeDegree: 12
+    HorizontalInner:
+      CurveXRangeDegree: 90
+      CurveYRangeDegree: 8
+    VerticalDown:
+      CurveXRangeDegree: 90
+      CurveYRangeDegree: 10
+    VerticalUp:
+      CurveXRangeDegree: 90
+      CurveYRangeDegree: 10
+  FirstPerson:
+    Renderers:
+    - Renderer: Body
+      FirstPersonFlag: 0
+    - Renderer: Face
+      FirstPersonFlag: 0
+    - Renderer: Hair
+      FirstPersonFlag: 0

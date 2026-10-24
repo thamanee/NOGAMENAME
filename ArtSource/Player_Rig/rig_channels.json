@@ -1,0 +1,23 @@
+{
+  "Blink_L": "Fcl_EYE_Close_L",
+  "Blink_R": "Fcl_EYE_Close_R",
+  "Mouth_A": "Fcl_MTH_A",
+  "Mouth_I": "Fcl_MTH_I",
+  "Mouth_U": "Fcl_MTH_U",
+  "Mouth_E": "Fcl_MTH_E",
+  "Mouth_O": "Fcl_MTH_O",
+  "Brow_Up_L": "SIS_Brow_Up_L",
+  "Brow_Up_R": "SIS_Brow_Up_R",
+  "Brow_Down_L": "SIS_Brow_Down_L",
+  "Brow_Down_R": "SIS_Brow_Down_R",
+  "Brow_Sad_L": "SIS_Brow_Sad_L",
+  "Brow_Sad_R": "SIS_Brow_Sad_R",
+  "Brow_Happy_L": "SIS_Brow_Happy_L",
+  "Brow_Happy_R": "SIS_Brow_Happy_R",
+  "Mouth_Smile_L": "SIS_Mouth_Smile_L",
+  "Mouth_Smile_R": "SIS_Mouth_Smile_R",
+  "Mouth_Frown_L": "SIS_Mouth_Frown_L",
+  "Mouth_Frown_R": "SIS_Mouth_Frown_R",
+  "Eye_Wide_L": "SIS_Eye_Wide_L",
+  "Eye_Wide_R": "SIS_Eye_Wide_R"
+}
